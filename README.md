@@ -1,2 +1,3 @@
 # ReactNoteKeepingApp
-Created with CodeSandbox
+
+![spp screen shot](https://i.ibb.co/KKMCmBZ/Untitled.png)
